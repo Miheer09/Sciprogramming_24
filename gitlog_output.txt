@@ -1,0 +1,93 @@
+commit 8dfbf5b99fe00a283c4663c83ff308e843b5655d
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Wed Nov 20 20:36:42 2024 +0000
+
+    Add Practical 9 code to git repo
+
+commit 273a976d12e0dad149401d9b36262d6a833c8815
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Sun Nov 17 20:38:36 2024 +0000
+
+    Add Practical 8 codes
+
+commit e8b68c7104c4e761b22cd2e902df449a386c1f23
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Sat Nov 16 11:43:02 2024 +0000
+
+    Add practical 7 code files
+
+commit bf4e79eae67e8f75d4572c65705cf38f045c4a79
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Sat Nov 16 11:41:07 2024 +0000
+
+    add Practical 7 code files
+
+
+commit d955f949ad838aa61a361f11e76cb735a8c0456c
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Thr Nov 14 17:32:07 2024 +0000
+
+    Update the readme file
+
+commit 2afd6aa26fe19167032a577f902c47d60fa3b435
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Thr Nov 14 17:30:22 2024 +0000
+
+    Add practical 06 with main.c mm.c and makefile files
+
+
+commit 7695fabc8a34812591405245a6c657ae468b0eaf
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Tue Nov 12 12:53:11 2024 +0100
+
+    Add new branch practical05
+
+commit 6c13ad615e696d7a9e3aa38ff845391af7e72287
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Tue Nov 12 12:51:47 2024 +0100
+
+    Add Arctan.c,Fibo.c, Use_Scanf.c and READMEmd to git repo branch practical05
+
+commit 36dd3aa8dc3c4bc73e9d5136f936788ac7f82f69
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Sun Nov 10 03:11:10 2024 +0100
+
+    Add new branch Practical04.
+
+commit ccbcffb9748762152468e59c6b930fb8007217301
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Sun Nov 10 03:09:49 2024 +0100
+
+    Add trap2.c and README.md to practical04 branch
+
+commit 1dbce16bc8374b543d76e50b0b88ead521af6122
+Merge: 94dcd95 5dd0ec0
+Author :Miheer <miheer.more09@gmail.com>
+Date:   Fri Nov 8 16:42:30 2024 +0100
+
+    Merge branch 'practical03'
+
+commit da40902af69d7d7eec29dc5aefb6e806d398b002
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Fri Nov 8 16:40:01 2024 +0100
+
+    Add use_printf.c, trap.c, and README.md to practical03 branch
+
+commit fc148d9645c6d416db559464ddaa8ebecd7c680a
+Merge: a7c4337 e56f10b
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Tue Nov 7 16:16:38 2024 +0100
+
+Merge branch 'Practical02'  
+
+commit dr148d9645c6d416db559464ddaa8ebecd7c680a
+Author: Miheer <miheer.more09@gmail.com>
+Date:   Thu Nov 7 16:14:29 2024 +0100
+
+    Added Conversion.c, Sum.c, and README.md to Practical02 branch
+
+commit 13525527f887c0e5632923c45a071d1bbe2b3319
+Author: Miheer <miheer.more09@gmail.com>
+Date:    Thu Nov 7 16:02:34 2024 +0000
+
+    Initial commit
